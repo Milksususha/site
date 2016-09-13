@@ -1,0 +1,55 @@
+﻿.bloc1{
+	position:absolute;
+	background-color:white;
+	width:300px;
+	height:400px;
+	opacity:0.8;
+	top:200px;
+	left:80px;
+}
+.bloc2{
+	position:absolute;
+	background-color:white;
+	width:300px;
+	height:400px;
+	opacity:0.8;
+	top:200px;
+	left:480px;
+}
+.bloc3{
+	position:absolute;
+	background-color:white;
+	width:300px;
+	height:400px;
+	opacity:0.8;
+	top:200px;
+	left:880px;
+}
+.bloc4{
+	position:absolute;
+	background-color:white;
+	width:300px;
+	height:400px;
+	opacity:0.8;
+	top:200px;
+	left:1280px;
+}
+.bloc5{
+	position:absolute;
+	background-color:white;
+	width:1290px;
+	height:160px;
+	opacity:0.8;
+	top:0px;
+	left:180px;
+}
+.bloc6{
+	position:absolute;
+	background-color:white;
+	width:1290px;
+	height:800px;
+	opacity:0.8;
+	top:650px;
+	left:180px;
+}
+
